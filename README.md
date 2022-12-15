@@ -1,7 +1,7 @@
 ### <div align="center">👋 I'm a web & blockchain developer 👨‍💻 working remotely since 2014 🚀</div>  
   
 
-I am a seasoned web developer with more than 8+ years of experience across various web & Blockchain development languages. I am very familiar with JS/React/Vue/Rust/Vue/Solidity/Rust/Web3.js/Ethers.js.
+I am a seasoned web developer with more than 8+ years of experience across various web & Blockchain development languages. I am very familiar with JS/React/Vue/Solidity/Rust/Web3.js/Ethers.js.
 I've got years of experience with each of these and also have worked on various large-scaled projects based on the stacks mentioned. I'm also a great team player and can adjust well to any team environment. I usually followed agile approach in my previous team projects and experienced with Git and JIRA/Asana/Trello.  
   
 
